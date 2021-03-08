@@ -16,7 +16,7 @@
 ## Part 1.5: Getting the bot token
 
 1. Click on the `Bot` tab on the left menu bar
-2. Click on `Copy` under `TOKEN`. Remember, never give this token the strangers, as they can gain full access to your bot if they gain access to this token!
+2. Click on `Copy` under `TOKEN`. Remember, never give this token to strangers, as they can gain full access to your bot if they gain access to this token!
 
 ## Part 2: Hosting the bot
 
