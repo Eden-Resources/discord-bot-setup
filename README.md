@@ -20,7 +20,7 @@
 
 ## Part 2: Hosting the bot
 
-0. Download the zip file
+0. Download/Clon the bot files
 1. Navigate to the folder that contains the bot's code in a file explorer
 2. Rename `config.json.example` to `config.json`
 3. Fill in the token that you got from `part 1.5` into the config.json
@@ -39,4 +39,4 @@
 6. Start a command prompt/terminal
 7. Use the `cd` command to navigate to the folder that cointains the bot's code
 8. Type `npm install` in the terminal and then press enter
-9. Type `node .` to run the bot! Press `ctrl + c` to stop the bot.
+9. Type `node .` in the terminal to run the bot! Press `ctrl + c` to stop the bot.
