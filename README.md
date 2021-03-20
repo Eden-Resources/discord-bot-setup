@@ -23,7 +23,7 @@
 7. Navigate to the folder that contains the bot's code in a file explorer
 8. Rename all files ending with `.json.example` to `.json`, removing the `.example`, such as renaming `config.json.example` to `config.json`
 
-## Config
+## Configuration
 
 ### Getting the bot token
 
@@ -111,6 +111,12 @@
 -->
 
 ## Hosting the bot
+
+A. Host it locally on your computer (which needs to be on 24/7)
+B. Rent a VPS yourself and pay a one-time $20 fee for me to help you set up the bot on it.
+C. Pay $10 a month for me to host the bot for you, with setup included.
+
+You will have to do the config steps above yourself anyways, since there is no way for me to access your accounts to do them for you. If you chose step A, or if you have a VPS and would like to do the setup yourself, proceed:
 
 1. Go to the [NodeJs website](https://nodejs.org/en)
 2. Download and install NodeJs on your computer/server
