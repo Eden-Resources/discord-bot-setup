@@ -20,10 +20,10 @@
 
 ## Part 2: Hosting the bot
 
-0. Download/Clone the bot files
-1. Navigate to the folder that contains the bot's code in a file explorer
-2. Rename all files ending with `.json.example` to `.json`, removing the `.example`, such as renaming `config.json.example` to `config.json`
-3. Fill in the token that you got from `part 1.5` into the config.json
+1. Download/Clone the bot files
+2. Navigate to the folder that contains the bot's code in a file explorer
+3. Rename all files ending with `.json.example` to `.json`, removing the `.example`, such as renaming `config.json.example` to `config.json`
+4. Fill in the token that you got from `part 1.5` into the config.json
 
    Here is an example:
 
@@ -34,9 +34,9 @@
    }
    ```
 
-4. Go to https://nodejs.org/en
-5. Download and install NodeJs on your computer/server
-6. Start a command prompt/terminal
-7. Use the `cd` command to navigate to the folder that cointains the bot's code
-8. Type `npm install` in the terminal and then press enter
-9. Type `node .` in the terminal to run the bot! Press `ctrl + c` to stop the bot.
+5. Go to https://nodejs.org/en
+6. Download and install NodeJs on your computer/server
+7. Start a command prompt/terminal
+8. Use the `cd` command to navigate to the folder that cointains the bot's code
+9. Type `npm install` in the terminal and then press enter
+10. Type `node .` in the terminal to run the bot! Press `ctrl + c` to stop the bot.
