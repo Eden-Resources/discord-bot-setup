@@ -15,7 +15,7 @@
 ## Setting up the files
 
 1. You should have git pre-installed if you are using mac or linux. If not, download and install git [here](https://git-scm.com/downloads)
-2. Go to the github page of this repo and press `⬇Code`, select HTTPS, then copy the link
+2. Go to the github page of this repo and press `⬇Code`, select `HTTPS`, then copy the link
 3. Start a terminal
 4. Use the `cd` command to navigate to wherever you want the bot files to be placed in
 5. Type `git clone [paste in the link here]` (add sudo if you are on linux and it gives you an error)
