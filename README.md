@@ -1,7 +1,7 @@
 # Bot setup guide
 ## Creating the bot account
 
-1. Go to https://discord.com/developers/applications
+1. Go to the [discord developer portal](https://discord.com/developers/applications)
 2. Login to your discord account
 3. Click on `New Application`
 4. Enter the name of your bot and press create
