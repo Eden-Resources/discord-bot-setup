@@ -13,12 +13,12 @@
 9. Check the `bot` checkbox and press `Copy`
 10. You can paste this link in your browser and add this bot to any discord server you want. You can use this link again to add the bot into other servers!
 
-## Part 1.5: Getting the bot token
+## Part 2: Getting the bot token
 
 1. Click on the `Bot` tab on the left menu bar
 2. Click on `Copy` under `TOKEN`. Remember, never give this token to strangers, as they can gain full access to your bot if they gain access to this token!
 
-## Part 2: Hosting the bot
+## Part 3: Hosting the bot
 
 1. Download/Clone the bot files
 2. Navigate to the folder that contains the bot's code in a file explorer
