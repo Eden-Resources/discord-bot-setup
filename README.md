@@ -55,7 +55,7 @@
 
 ## Hosting the bot
 
-1. Go to the [NodeJs website](https://nodejs.org/ensp)
+1. Go to the [NodeJs website](https://nodejs.org/en)
 2. Download and install NodeJs on your computer/server
 3. Start a command prompt/terminal
 4. Use the `cd` command to navigate to the folder that cointains the bot's code
