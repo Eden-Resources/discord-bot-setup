@@ -22,7 +22,7 @@
 
 0. Download/Clone the bot files
 1. Navigate to the folder that contains the bot's code in a file explorer
-2. Rename `config.json.example` to `config.json`
+2. Rename all files ending with `.json.example` to `.json`, removing the `.example`, such as renaming `config.json.example` to `config.json`
 3. Fill in the token that you got from `part 1.5` into the config.json
 
    Here is an example:
