@@ -21,7 +21,7 @@
 5. Type `git clone [paste in the link here]` (add sudo if you are on linux and it gives you an error)
 6. Login to your github account in the terminal
 7. Navigate to the folder that contains the bot's code in a file explorer
-8. Rename all files ending with `.json.example` to `.json`, removing the `.example`, such as renaming `config.json.example` to `config.json`
+8. Rename `.env.example` to `.env`
 
 ## Configuration
 
@@ -29,12 +29,12 @@
 
 1. Click on the `Bot` tab on the left menu bar
 2. Click on `Copy` under `TOKEN`. Remember, never give this token to strangers, as they can gain full access to your bot if they gain access to this token!
-3. Fill in the token into config.json
+3. Fill in the token into the `.env` file
 
    Here is an example:
    ```
    ...
-   "TOKEN": "ODE4NDY3Mzc0NzE3OTkzMDAx.YEYfJA.j_vM2raH-LOsGDcZGavrBjqk9hk"
+   TOKEN=ODE4NDY3Mzc0NzE3OTkzMDAx.YEYfJA.j_vM2raH-LOsGDcZGavrBjqk9hk
    ...
    ```
 
@@ -43,21 +43,12 @@
 
 1. Click on the `General Information` tab on the left menu bar
 2. Copy the `CLIENT ID`
-3. Fill in the ID into config.json
+3. Fill in the ID into `.env`
 
    Here is an example:
    ```
    ...
-   "ID": "761048219479421520"
-   ...
-   ```
-4. Copy the `CLIENT SECRET`
-5. Fill in the secret into config.json
-
-   Here is an example:
-   ```
-   ...
-   "SECRET": "c9sPUBgO1cj4y3v-wK9rNKb5jOVgkiIe"
+   CLIENT_ID=761048219479421520
    ...
    ```
 -->
