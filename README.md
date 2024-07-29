@@ -101,16 +101,17 @@
 -->
 
 ## Hosting the bot
-
-A. Host it locally on your computer (which needs to be on 24/7)
-B. Rent a VPS yourself and pay a one-time $20 fee for me to help you set up the bot on it.
-C. Pay $10 a month for me to host the bot for you, with setup included.
-
-You will have to do the config steps above yourself anyways, since there is no way for me to access your accounts to do them for you. If you chose step A, or if you have a VPS and would like to do the setup yourself, proceed:
-
 1. Go to the [NodeJs website](https://nodejs.org/en)
 2. Download and install NodeJs on your computer/server
 3. Start a command prompt/terminal
 4. Use the `cd` command to navigate to the folder that cointains the bot's code
 5. Type `npm install` in the terminal and then press enter
-6. Type `node .` in the terminal to run the bot! Press `ctrl + c` to stop the bot.
+6. Run `npm install typescript -g`
+7. Run `tsc` 
+8. Type `node build` in the terminal to run the bot! Press `ctrl + c` to stop the bot.
+
+## Fetching a newer version of the bot
+1. Stop the bot using `ctrl + c`
+2. Run `git pull`
+3. Run `tsc`
+4. Run `node build` to start the bot up again
