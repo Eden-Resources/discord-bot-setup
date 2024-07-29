@@ -38,8 +38,8 @@
    ...
    ```
 
-<!---
-### Getting the client ID and secret
+
+### Getting the client ID
 
 1. Click on the `General Information` tab on the left menu bar
 2. Copy the `CLIENT ID`
@@ -51,7 +51,6 @@
    CLIENT_ID=761048219479421520
    ...
    ```
--->
 
 <!---
 ### Setting up ngrok for request handling
